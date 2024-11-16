@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <div className="bg-[#112d43] h-[931.450px] lg:h-full w-[100%] flex md:flex-row md:justify-between flex-col justify-center  py-10 lg:py-48  gap-x-auto">
       {/* text  */}
-      <div className="w-auto md:w-[500px] lg:w-[850px] h-auto md:h-[356px] lg:h-[260px] text-center md:text-left lg:ml-[30px] xl:mx-auto mx-auto">
+      <div className="w-auto md:w-[500px] lg:w-[850px] h-auto md:h-[356px] lg:h-[260px] text-center md:text-left  mx-auto">
         
 
         <h1 className="text-4xl md:text-5xl  xl:text-7xl font-[poppins] font-bold text-white">
@@ -24,7 +24,7 @@ export default function Hero() {
         </button></Link>
       </div>
       {/* image  */}
-      <div className="w-[300px] sm:w-[500px]  xl:mx-auto lg:mx-[20px] mx-auto pt-6 md:pt-0">
+      <div className="w-[300px] sm:w-[500px]   mx-auto pt-6 md:pt-0">
         <Image
           src={"/profile.jpg"}
           alt="profil image"
