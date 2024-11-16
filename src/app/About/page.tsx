@@ -24,14 +24,14 @@ export default function About() {
             FullStack Web Developer
           </h2>
           <p className="text-[#aebbc7] leading-[20px] font-[poppins] text-medium md:text-lg lg:text-2xl text-center p-[20px] md:p-[30px] lg:p-[40px]">
-            Hi,"As a seasoned full-stack developer with expertise in HTML, CSS,
+            Hi,&quot;As a seasoned full-stack developer with expertise in HTML, CSS,
             Tailwind CSS, Next.js, and TypeScript, I excel at crafting modern,
             scalable, and secure web applications that surpass user
             expectations. With a passion for innovation and problem-solving, I
             stay abreast of industry trends to deliver high-quality solutions.
             My focus is on creating intuitive user experiences that drive
             business results, leveraging agile methodologies and cutting-edge
-            technologies to ensure seamless project execution."AI-driven
+            technologies to ensure seamless project execution.&quot;AI-driven
             solutions, & craft innovative applications that combine technical
             excellence with cutting-edge artificial intelligence.
           </p>

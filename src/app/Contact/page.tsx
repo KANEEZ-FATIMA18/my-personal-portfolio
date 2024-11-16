@@ -2,8 +2,8 @@ export default function Contact() {
     return (
       <div className="h-screen w-full flex justify-center items-center mx-auto bg-[#0a2335]">
         {/* foam */}
-        <div className="rounded-lg  mx-auto">
-          <h1 className="font-[poppins] text-4xl  font-bold text-white text-center mt-[15px] ">
+        <div className="rounded-lg  mx-auto bg-[#152a39]">
+          <h1 className="font-[poppins] text-4xl sm:text-5xl lg:text-7xl   font-bold text-white text-center mt-[15px] ">
             Contact <span className="text-[#03AAe4]">Us</span>
           </h1>
   
